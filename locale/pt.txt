@@ -1,0 +1,47 @@
+#: locale=pt
+
+## Tour
+
+### Description
+
+### Title
+tour.name = R1 Fitness Unid Kátia 
+
+## Skin
+
+### Multiline Text
+HTMLText_811F5BD3_9619_FA40_41DC_579525FF34EF.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:21px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:21px;"><B>#VCNAR1</B></SPAN></SPAN></DIV></div>
+HTMLText_811F5BD3_9619_FA40_41DC_579525FF34EF_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:10.5px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:10.5px;"><B>#VCNAR1</B></SPAN></SPAN></DIV></div>
+HTMLText_8FACB396_961B_2AC3_41D0_795A96BFE3FF.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:21px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:21px;"><U>UNIDADE KÁTIA</U></SPAN></SPAN></DIV></div>
+HTMLText_8FACB396_961B_2AC3_41D0_795A96BFE3FF_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:10.5px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:10.5px;"><U>UNIDADE KÁTIA</U></SPAN></SPAN></DIV></div>
+
+## Media
+
+### Title
+panorama_84F6062E_95A6_B128_41DA_DFCCFAB5B23E.label = ENTRADA 01
+panorama_85EAC651_95A3_9178_41D4_97E23995BCB8.label = INTERNO 01
+panorama_85F02BC9_95A2_9768_41D8_3859C92CFA34.label = INTERNO SUPERIOR 02
+panorama_85F07113_95A2_90F8_41A7_8F789AD098C5.label = INTERNO SUPERIOR 04
+panorama_85F223C1_95A3_7758_41CF_BF68E829259D.label = INTERNO 04
+panorama_85F33313_95A2_90F8_41E1_C2F7D45E8282.label = INTERNO 06
+panorama_85F3632C_95A3_B728_41B6_7013C1C13A1A.label = INTERNO 03
+panorama_85F36CD3_95A3_F178_41DF_E9BE0DCF433C.label = INTERNO 02
+panorama_85F38EC2_95A2_9158_41E0_646D58C7A45B.label = INTERNO 05
+panorama_85F3D7DF_95A2_FF68_41D0_A408CE83559C.label = INTERNO SUPERIOR 01
+photo_8C8E24F8_9628_E53A_41C0_7C4409ED71FC.label = ESPAÇO PARA TIRAR FOTOS R1 FITNESS
+
+## Popup
+
+### Body
+htmlText_8DA8CCF0_9629_254A_41C3_A508D65487C3.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+
+## Action
+
+### URL
+LinkBehaviour_80BAFF00_9629_24CA_41D5_17C5D7229E31.source = https://www.google.com/maps/place/R1+Fitness+-+Unid.+I/@-16.7337279,-49.3639507,17z/data=!4m5!3m4!1s0x935ef62bc0c0c4f9:0xadaae530be22aff9!8m2!3d-16.733733!4d-49.361762
+LinkBehaviour_81D0E5BC_962B_273A_41CE_139A000E1816.source = https://www.instagram.com/r1fitnessgyn/
+LinkBehaviour_81EE77C6_962B_2356_41D1_38EEB61131F3.source = https://api.whatsapp.com/send?phone=5562982007734&text=Ol%C3%A1%2C%20vim%20do%20seu%20Tour%20Virtual%20e%20gostaria%20de%20mais%20informa%C3%A7%C3%B5es%20sobre%20%C3%A0%20academia!
+LinkBehaviour_8DAE244B_97F9_255E_41D1_CFE50FA1D64B.source = https://api.whatsapp.com/send?phone=5562982007734&text=Ol%C3%A1%2C%20vim%20do%20seu%20Tour%20Virtual%20e%20gostaria%20de%20mais%20informa%C3%A7%C3%B5es%20sobre%20%C3%A0%20academia!
+LinkBehaviour_8F24E10D_961B_5CDA_41D5_FC921822E811.source = https://www.google.com/maps/place/R1+Fitness+-+Unid.+I/@-16.7337279,-49.3639507,17z/data=!4m5!3m4!1s0x935ef62bc0c0c4f9:0xadaae530be22aff9!8m2!3d-16.733733!4d-49.361762
+LinkBehaviour_8F25810C_961B_5CDA_4175_714BF60FC1B3.source = https://www.instagram.com/r1fitnessgyn/
+LinkBehaviour_8F27310E_961B_5CD6_41DD_864621CD7BBC.source = https://api.whatsapp.com/send?phone=5562982007734&text=Ol%C3%A1%2C%20vim%20do%20seu%20Tour%20Virtual%20e%20gostaria%20de%20mais%20informa%C3%A7%C3%B5es%20sobre%20%C3%A0%20academia!
