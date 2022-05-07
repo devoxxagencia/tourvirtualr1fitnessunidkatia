@@ -11,9 +11,8 @@ tour.name = R1 Fitness Unid Kátia
 
 ### Multiline Text
 HTMLText_811F5BD3_9619_FA40_41DC_579525FF34EF.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:21px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:21px;"><B>#VCNAR1</B></SPAN></SPAN></DIV></div>
-HTMLText_811F5BD3_9619_FA40_41DC_579525FF34EF_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:10.5px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:10.5px;"><B>#VCNAR1</B></SPAN></SPAN></DIV></div>
+HTMLText_877E07B5_9D79_03E6_41D4_CD13B7ABC242.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:12px;"><B><U>UNIDADE KÁTIA</U></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:12px;"><B>     #VCNAR1</B></SPAN></SPAN></DIV></div>
 HTMLText_8FACB396_961B_2AC3_41D0_795A96BFE3FF.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:21px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:21px;"><U>UNIDADE KÁTIA</U></SPAN></SPAN></DIV></div>
-HTMLText_8FACB396_961B_2AC3_41D0_795A96BFE3FF_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:10.5px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:10.5px;"><U>UNIDADE KÁTIA</U></SPAN></SPAN></DIV></div>
 
 ## Media
 
