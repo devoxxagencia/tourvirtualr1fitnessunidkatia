@@ -29,6 +29,7 @@ panorama_85F36CD3_95A3_F178_41DF_E9BE0DCF433C.label = INTERNO 02
 panorama_85F38EC2_95A2_9158_41E0_646D58C7A45B.label = INTERNO 05
 panorama_85F3D7DF_95A2_FF68_41D0_A408CE83559C.label = INTERNO SUPERIOR 01
 photo_8C8E24F8_9628_E53A_41C0_7C4409ED71FC.label = ESPAÇO PARA TIRAR FOTOS R1 FITNESS
+video_8F32A37C_9B9F_0365_41DF_CAFEC93FD113.label = CLIQUE AQUI E ASSISTA! 
 
 ## Popup
 
@@ -40,8 +41,9 @@ htmlText_8DA8CCF0_9629_254A_41C3_A508D65487C3.html = <div style="text-align:left
 ### URL
 LinkBehaviour_80BAFF00_9629_24CA_41D5_17C5D7229E31.source = https://www.google.com/maps/place/R1+Fitness+-+Unid.+I/@-16.7337279,-49.3639507,17z/data=!4m5!3m4!1s0x935ef62bc0c0c4f9:0xadaae530be22aff9!8m2!3d-16.733733!4d-49.361762
 LinkBehaviour_81D0E5BC_962B_273A_41CE_139A000E1816.source = https://www.instagram.com/r1fitnessgyn/
-LinkBehaviour_81EE77C6_962B_2356_41D1_38EEB61131F3.source = https://api.whatsapp.com/send?phone=5562982007734&text=Ol%C3%A1%2C%20vim%20do%20seu%20Tour%20Virtual%20e%20gostaria%20de%20mais%20informa%C3%A7%C3%B5es%20sobre%20%C3%A0%20academia!
+LinkBehaviour_83DCFC75_9AE7_0566_41C5_ACA2E48EDCB4.source = https://r1fitnesss.negocio.site/
+LinkBehaviour_83ECB5F9_9AEB_076E_41DA_A1E53401D602.source = https://api.whatsapp.com/send?phone=5562982007734&text=Ol%C3%A1%2C%20vim%20l%C3%A1%20do%20seu%20Tour%20Virtual%20e%20gostaria%20muito%20de%20saber%20mais%20informa%C3%A7%C3%B5es%20sobre%20a%20academia%2C%20voc%C3%AA%20pode%20me%20ajudar%3F
 LinkBehaviour_8DAE244B_97F9_255E_41D1_CFE50FA1D64B.source = https://api.whatsapp.com/send?phone=5562982007734&text=Ol%C3%A1%2C%20vim%20do%20seu%20Tour%20Virtual%20e%20gostaria%20de%20mais%20informa%C3%A7%C3%B5es%20sobre%20%C3%A0%20academia!
-LinkBehaviour_8F24E10D_961B_5CDA_41D5_FC921822E811.source = https://www.google.com/maps/place/R1+Fitness+-+Unid.+I/@-16.7337279,-49.3639507,17z/data=!4m5!3m4!1s0x935ef62bc0c0c4f9:0xadaae530be22aff9!8m2!3d-16.733733!4d-49.361762
-LinkBehaviour_8F25810C_961B_5CDA_4175_714BF60FC1B3.source = https://www.instagram.com/r1fitnessgyn/
-LinkBehaviour_8F27310E_961B_5CD6_41DD_864621CD7BBC.source = https://api.whatsapp.com/send?phone=5562982007734&text=Ol%C3%A1%2C%20vim%20do%20seu%20Tour%20Virtual%20e%20gostaria%20de%20mais%20informa%C3%A7%C3%B5es%20sobre%20%C3%A0%20academia!
+LinkBehaviour_95569B6E_9AE7_0365_41DA_626EF0B3102B.source = https://www.google.com/maps/place/R1+Fitness+-+Unid.+I/@-16.7337279,-49.3639507,17z/data=!4m5!3m4!1s0x935ef62bc0c0c4f9:0xadaae530be22aff9!8m2!3d-16.733733!4d-49.361762
+LinkBehaviour_9556CB6D_9AE7_0367_41E3_5577CF9BEC06.source = https://www.instagram.com/r1fitnessgyn/
+LinkBehaviour_95575B6E_9AE7_0365_41B0_F718C9A8DEE3.source = https://api.whatsapp.com/send?phone=5562982007734&text=Ol%C3%A1%2C%20vim%20do%20seu%20Tour%20Virtual%20e%20gostaria%20de%20mais%20informa%C3%A7%C3%B5es%20sobre%20%C3%A0%20academia!
