@@ -11,8 +11,9 @@ tour.name = R1 Fitness Unid Kátia
 
 ### Multiline Text
 HTMLText_811F5BD3_9619_FA40_41DC_579525FF34EF.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:21px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:21px;"><B>#VCNAR1</B></SPAN></SPAN></DIV></div>
-HTMLText_877E07B5_9D79_03E6_41D4_CD13B7ABC242.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:12px;"><B><U>UNIDADE KÁTIA</U></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:12px;"><B>     #VCNAR1</B></SPAN></SPAN></DIV></div>
+HTMLText_811F5BD3_9619_FA40_41DC_579525FF34EF_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:10.5px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:10.5px;"><B>#VCNAR1</B></SPAN></SPAN></DIV></div>
 HTMLText_8FACB396_961B_2AC3_41D0_795A96BFE3FF.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:21px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:21px;"><U>UNIDADE KÁTIA</U></SPAN></SPAN></DIV></div>
+HTMLText_8FACB396_961B_2AC3_41D0_795A96BFE3FF_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:10.5px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:10.5px;"><U>UNIDADE KÁTIA</U></SPAN></SPAN></DIV></div>
 
 ## Media
 
@@ -42,7 +43,8 @@ LinkBehaviour_80BAFF00_9629_24CA_41D5_17C5D7229E31.source = https://www.google.c
 LinkBehaviour_81D0E5BC_962B_273A_41CE_139A000E1816.source = https://www.instagram.com/r1fitnessgyn/
 LinkBehaviour_83DCFC75_9AE7_0566_41C5_ACA2E48EDCB4.source = https://r1fitnesss.negocio.site/
 LinkBehaviour_83ECB5F9_9AEB_076E_41DA_A1E53401D602.source = https://api.whatsapp.com/send?phone=5562982007734&text=Ol%C3%A1%2C%20vim%20l%C3%A1%20do%20seu%20Tour%20Virtual%20e%20gostaria%20muito%20de%20saber%20mais%20informa%C3%A7%C3%B5es%20sobre%20a%20academia%2C%20voc%C3%AA%20pode%20me%20ajudar%3F
+LinkBehaviour_8632C2FA_9DA9_1D6D_41E0_51A3FB6137F8.source = https://www.instagram.com/r1fitnessgyn/
+LinkBehaviour_86350302_9DA9_1C9D_41D4_881160661F7F.source = https://api.whatsapp.com/send?phone=5562982007734&text=Ol%C3%A1%2C%20vim%20l%C3%A1%20do%20seu%20Tour%20Virtual%20e%20gostaria%20muito%20de%20saber%20mais%20informa%C3%A7%C3%B5es%20sobre%20a%20academia%2C%20voc%C3%AA%20pode%20me%20ajudar%3F
+LinkBehaviour_86376301_9DA9_1C9F_41C9_EE81487C0E6B.source = https://www.google.com/maps/place/R1+Fitness+-+Unid.+I/@-16.7337279,-49.3639507,17z/data=!4m5!3m4!1s0x935ef62bc0c0c4f9:0xadaae530be22aff9!8m2!3d-16.733733!4d-49.361762
+LinkBehaviour_863BA309_9DA9_1CAE_41CA_077CA659898A.source = https://r1fitnesss.negocio.site/
 LinkBehaviour_8DAE244B_97F9_255E_41D1_CFE50FA1D64B.source = https://api.whatsapp.com/send?phone=5562982007734&text=Ol%C3%A1%2C%20vim%20do%20seu%20Tour%20Virtual%20e%20gostaria%20de%20mais%20informa%C3%A7%C3%B5es%20sobre%20%C3%A0%20academia!
-LinkBehaviour_95569B6E_9AE7_0365_41DA_626EF0B3102B.source = https://www.google.com/maps/place/R1+Fitness+-+Unid.+I/@-16.7337279,-49.3639507,17z/data=!4m5!3m4!1s0x935ef62bc0c0c4f9:0xadaae530be22aff9!8m2!3d-16.733733!4d-49.361762
-LinkBehaviour_9556CB6D_9AE7_0367_41E3_5577CF9BEC06.source = https://www.instagram.com/r1fitnessgyn/
-LinkBehaviour_95575B6E_9AE7_0365_41B0_F718C9A8DEE3.source = https://api.whatsapp.com/send?phone=5562982007734&text=Ol%C3%A1%2C%20vim%20do%20seu%20Tour%20Virtual%20e%20gostaria%20de%20mais%20informa%C3%A7%C3%B5es%20sobre%20%C3%A0%20academia!
